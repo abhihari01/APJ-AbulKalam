@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(37, 37, 37);
+}
+table{
+    background-image: url(https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    margin:auto;
+}
+th{
+    width: 200px;
+    text-align: left;
+}
+.infobox-vcard{
+    width: 500px;
+    height: 300px;
+    border-width: 20px;
+    border-style: solid;
+    border-color: rgba(100, 2, 124, 0.774);
+    box-shadow:10px 10px 4px #4b4848;
+    padding: 10px;
+}
+.infobox-label{
+color:rgb(253, 5, 58);
+}
+.infobox-header{
+    text-align: center;
+    color:firebrick;
+    
+}
+.infobox-full-data{
+    color:rgb(117, 47, 25);
+}
+.infobox-data{
+    color:rgb(88, 97, 5);
+}
+.infobox-caption{
+    text-align: center;
+    color:rgb(3, 17, 77);
+}
+.fn{
+    text-align: center;
+    color:rgb(4, 85, 11);
+}
+.image{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
